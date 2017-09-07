@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/autowifilinebot.iml" filepath="$PROJECT_DIR$/autowifilinebot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autowifi-linebot.iml" filepath="$PROJECT_DIR$/autowifi-linebot.iml" />
     </modules>
   </component>
 </project>
